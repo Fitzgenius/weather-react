@@ -5,3 +5,11 @@ A simple React.js application for getting the current weather information for a 
 Weather data is collected from: http://www.openweathermap.org - sign up for a free account to obtain an API key.
 
 ## Getting Started
+
+`cd app_dir/weather-react`
+
+`npm start`
+
+To change styles simply run Gulp
+
+`gulp init`
