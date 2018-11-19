@@ -8,6 +8,8 @@ Weather data is collected from: http://www.openweathermap.org - sign up for a fr
 
 `cd app_dir/weather-react`
 
+`npm install`
+
 `npm start`
 
 To change styles with SASS simply run Gulp:
