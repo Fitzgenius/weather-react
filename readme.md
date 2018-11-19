@@ -10,6 +10,6 @@ Weather data is collected from: http://www.openweathermap.org - sign up for a fr
 
 `npm start`
 
-To change styles simply run Gulp
+To change styles with SASS simply run Gulp:
 
 `gulp init`
