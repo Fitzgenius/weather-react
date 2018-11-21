@@ -1,0 +1,20 @@
+header {
+    background:#2191fb;
+    color: #fff;
+    padding: 1rem 0;
+    margin-bottom: 1rem;
+    h1 {
+        display:inline-block;
+        font-size: 1.8rem;      
+        color: #fff;
+    }
+    span {
+        margin-left: 1rem;
+        opacity: .8;
+        @media screen and (max-width: 768px) {
+            display:block;
+            margin-left: 0;
+        }          
+    }
+
+}
