@@ -9,13 +9,13 @@ Weather data is collected from: http://www.openweathermap.org - sign up for a fr
 ## Getting Started
 Unzip the archive and move to your favourite location.
 
-`$ cd app_dir/bglweatherapp`
+`$ cd app_dir/dir`
 `$ npm install`
 `$ npm start`
 
 To change styles with SASS simply use Gulp. This should auto update the page upon file save too.
 
-`$ cd app_dir/bglweatherapp/src`
+`$ cd app_dir/dir/src`
 `$ gulp default`
 
 ## Main Application File - App.js
