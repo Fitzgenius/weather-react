@@ -18,6 +18,7 @@ Unzip the archive and move to your favourite location.
 To change styles with SASS simply use Gulp. This should auto update the page upon file save too.
 
 `$ cd app_dir/dir/src`
+
 `$ gulp default`
 
 ## Main Application File - App.js
