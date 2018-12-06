@@ -6,7 +6,7 @@ import Footer from "./components/footer";
 import "./css/animate.css";
 import "./css/main.css";
 
-const ApiKey = "873b444dfc0c64bcdce325bd495a21bf";
+const ApiKey = "{YOUR_KEY}";
 const CityListNames = ['Peterborough', 'London', 'Brighton', 'Liverpool', 'Cardiff'];
 
 class App extends React.Component {
