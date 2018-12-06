@@ -1,7 +1,7 @@
 import React from "react";
 //import axios from 'axios';
 
-const ApiKey = "873b444dfc0c64bcdce325bd495a21bf";
+const ApiKey = "{YOUR_KEY}";
 
 class WeatherList extends React.Component{ 
 
